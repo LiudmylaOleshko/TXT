@@ -1,0 +1,7 @@
+First Name - Liudmyla
+last Name - Oleshko
+age - 44
+animals - 1
+salary - 3000
+currency - USD
+
