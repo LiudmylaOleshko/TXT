@@ -1,0 +1,26 @@
+Skills:
+- HardSkills
+	OperatingSystem
+		Unix
+		Microsoft
+		Windows
+	Browsers
+		Chrome
+		MicrosoftEdge
+		Opera
+	BugTracking
+		Jira
+	Tools
+		Postman
+		GitHub
+		Fiddler
+		Charles
+		JMeter
+- SoftSkills
+		purposefulness
+		self-organization
+		communication
+		responsibility
+		multitasking
+		attentiveness
+
